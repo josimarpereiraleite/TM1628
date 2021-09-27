@@ -1,11 +1,11 @@
 # TM1628
 
-
+<div align="left">
 tm1628.Data( TM1628_SEG[ 0 ],  TM1628_DIGITS[ 0 ] );
 tm1628.Data( TM1628_SEG[ 1 ],  TM1628_DIGITS[ 1 ] );
 tm1628.Data( TM1628_SEG[ 2 ],  TM1628_DIGITS[ 2 ] );
 tm1628.Data( TM1628_SEG[ 3 ],  TM1628_DIGITS[ 3 ] );
-
+</div>
 	
 	
 <div align="left">
