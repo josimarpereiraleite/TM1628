@@ -9,8 +9,8 @@ tm1628.Data( TM1628_SEG[ 3 ],  TM1628_DIGITS[ 3 ] );
 <img align="left" width="600" height="450" src="https://github.com/josimarpereiraleite/TM1628/blob/main/Images/image_0.png">
 </pre>
 
+<br/>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <pre>
 Demo Video YOUTUBE
 
