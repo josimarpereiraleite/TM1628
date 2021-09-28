@@ -25,14 +25,14 @@
 #define TM1628_DOT					0x04
 #define TM1628_CD					0x08
 #define TM1628_DVD					0x10
-#define TM1628_PAUSE				0x20
+#define TM1628_PAUSE					0x20
 #define TM1628_PLAY					0x40
 
 #define TM1628_SEG0					0x00
 #define TM1628_SEG0					0x02
 #define TM1628_SEG0					0x08
 #define TM1628_SEG0					0x0A
-#define TM1628_SEGICON				0x0C
+#define TM1628_SEGICON					0x0C
 
 TM1628 tm1628;
 
